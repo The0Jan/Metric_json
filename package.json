@@ -1,0 +1,25 @@
+{
+  "name": "metric",
+  "version": "1.0.0",
+  "description": "A simple metric calculator app/server",
+  "main": "Task2.js",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node Task2.js",
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The0Jan/Metric_json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The0Jan/Metric_json/issues"
+  },
+  "homepage": "https://github.com/The0Jan/Metric_json#readme"
+}
